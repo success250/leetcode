@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "oven.bun-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
+}
